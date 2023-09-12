@@ -1,1 +1,1 @@
-# Created a poriject in VBA that make a s SQL request to read a databse of student names and grades for a certain assigment. The user can select what assigment and class they would like to see the grades for. 
+Created a porject in VBA that make a s SQL request to read a databse of student names and grades for a certain assigment. The user can select what assigment and class they would like to see the grades for. 
